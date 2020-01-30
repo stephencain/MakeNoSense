@@ -1,0 +1,2 @@
+Created one file with "Hello", and committed it.
+Created a second file with "Pony", and committed it.
