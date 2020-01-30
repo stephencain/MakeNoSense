@@ -10,6 +10,6 @@ Use git log to show history
 
 Use git config --list to list configured options
 
-Use git config -global user.name <user name> to set my name
+Use git config --global user.name <user name> to set my name
 
 Use git config --global user.email <user email> to set email
