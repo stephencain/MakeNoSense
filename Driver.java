@@ -5,5 +5,9 @@ public class Driver {
         B b = new B(4);
 
         System.out.println(b);
+
+        A a = new A(10);
+
+        System.out.println(a);
     }
 }
